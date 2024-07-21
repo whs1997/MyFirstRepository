@@ -6,7 +6,7 @@ namespace ConsoleProject1
     internal class Program
     {
         // 맵 내 무작위 좌표에 위치한 보물을 찾을 시 종료되게 구현하려고 했습니다.
-        //
+        // 맵 밖으로 나갈 시 종료되는 문제를 해결하지 못했습니다.
         public struct GameData
         {
             public bool running;
