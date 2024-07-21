@@ -185,7 +185,6 @@ namespace ConsoleProject1
                 Input();
                 Update();
             }
-
             End();
         }
     }
